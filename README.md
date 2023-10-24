@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 📫 How to reach me: wltjswltjs7101@gmail.com
 <!--
 **jisunp04023/jisunp04023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
