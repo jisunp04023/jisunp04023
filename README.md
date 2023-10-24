@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: wltjswltjs7101@gmail.com
+
 <!--
 **jisunp04023/jisunp04023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisunp04023&show_icons=true&theme=radical)
