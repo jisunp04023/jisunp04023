@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/jisunp04023"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jisunp04023&show_icons=true&theme=cobalt&hide=prs,contribs" /></a>
+<a href="https://github.com/jisunp04023"><img align="center" style="height:100px" src="https://github-readme-stats.vercel.app/api?username=jisunp04023&show_icons=true&theme=cobalt&hide=prs,contribs" /></a>
 
-<a href="https://github.com/jisunp04023"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisunp04023&langs_count=10&layout=compact&theme=cobalt" /></a> 
+<a href="https://github.com/jisunp04023"><img align="center" style="height:100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisunp04023&langs_count=10&layout=compact&theme=cobalt" /></a> 
