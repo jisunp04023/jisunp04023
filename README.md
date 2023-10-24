@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisunp04023&show_icons=true&theme=cobalt&hide=prs,contribs)
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisunp04023&langs_count=10&layout=compact&theme=cobalt)](https://github.com/jisunp04023/jisunp04023)
+
+<a href="https://github.com/jisunp04023"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jisunp04023&show_icons=true&theme=cobalt&hide=prs,contribs" /></a>
