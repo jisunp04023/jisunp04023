@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Github Stats
+
+<p align="left">
+  <img align="center" style="hight:80px" src="https://github-readme-stats.vercel.app/api?username=jisunp04023&show_icons=true&theme=cobalt&hide=prs,contribs" />
+  <img align="center" style="hight:80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisunp04023&langs_count=10&layout=compact&theme=cobalt" />
+</p>
+
 -->
 
 
@@ -21,11 +28,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgs04023)](https://solved.ac/sgs04023/)
 
-### Github Stats
-
-<p align="left">
-  <img align="center" style="hight:80px" src="https://github-readme-stats.vercel.app/api?username=jisunp04023&show_icons=true&theme=cobalt&hide=prs,contribs" />
-  <img align="center" style="hight:80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisunp04023&langs_count=10&layout=compact&theme=cobalt" />
-</p>
 
 
