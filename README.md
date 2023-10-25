@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgs04023)](https://solved.ac/sgs04023/)
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgs04023)](https://solved.ac/sgs04023/)
+
+<img align="center" style="hight:100px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sgs04023)](https://solved.ac/sgs04023/"/>
 
 <p align="center">
   <img align="center" style="hight:100px" src="https://github-readme-stats.vercel.app/api?username=jisunp04023&show_icons=true&theme=cobalt&hide=prs,contribs" />
