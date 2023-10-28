@@ -22,13 +22,14 @@ Here are some ideas to get you started:
 </p>
 
 -->
-
-
-### Solved.ac Profile
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgs04023)](https://solved.ac/sgs04023/)
-
+* * *
 ### Language Stats
 <img align="center" style="hight:80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisunp04023&langs_count=10&layout=compact&theme=cobalt" />
+
+* * *
+### Solved.ac Profile
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgs04023)](https://solved.ac/sgs04023/)
+
+
 
 
